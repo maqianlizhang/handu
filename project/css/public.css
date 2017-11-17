@@ -1,0 +1,404 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p, dt, dd, dl, ul, li, ol, a {
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 16px;
+  font-weight: 100; }
+
+ul, li, ol {
+  list-style: none; }
+
+i, em {
+  font-style: normal; }
+
+a {
+  text-decoration: none; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+input {
+  outline: none; }
+
+.clearfix:after {
+  height: 0;
+  display: block;
+  visibility: hidden;
+  clear: both;
+  overflow: hidden;
+  content: "."; }
+
+.widths, #nav .nav, .logo, #imgs .imgs, .clothesT, .clothe .clothes, #guide .guide, #ensure .ensure, #botNav .botNav, #copyright .copyright, #botImags .botImgs {
+  width: 960px;
+  margin: 0 auto; }
+
+img {
+  display: block; }
+
+#nav {
+  background: #f5f5f5;
+  border-bottom: 1px solid #ddd; }
+  #nav .nav {
+    height: 23px;
+    font-size: 12px;
+    padding: 0 4px;
+    line-height: 23px; }
+    #nav .nav .navLeft {
+      float: left; }
+      #nav .nav .navLeft .aDiff {
+        color: #f03;
+        margin-right: 17px; }
+      #nav .nav .navLeft a:hover {
+        color: #c70a28; }
+    #nav .nav .navRight {
+      float: right; }
+      #nav .nav .navRight ul {
+        float: left; }
+        #nav .nav .navRight ul li, #nav .nav .navRight ul li a {
+          float: left;
+          color: #565656; }
+        #nav .nav .navRight ul a:hover {
+          color: #c70a28; }
+      #nav .nav .navRight .navUlOne li a {
+        padding: 0 8px; }
+      #nav .nav .navRight .navUlOne li:nth-child(3) a {
+        color: #c70a28; }
+      #nav .nav .navRight .navUlOne .shopCart {
+        border-right: 1px solid #ddd; }
+      #nav .nav .navRight .navUlTwo li {
+        margin-left: 18px; }
+      #nav .nav .navRight .navUlTwo li:first-child {
+        margin-left: 9px; }
+      #nav .nav .navRight .navUlTwo li:last-child {
+        padding-left: 14px;
+        background: url("../img/nav.jpg") no-repeat left center; }
+    #nav .nav .siteMap {
+      position: absolute;
+      top: 24px;
+      height: 110px;
+      padding: 5px 0;
+      width: 955px;
+      border: 1px solid #e5e5e5;
+      background: #fff;
+      z-index: 10;
+      padding-left: 5px; }
+      #nav .nav .siteMap h2 {
+        font-size: 12px;
+        color: #f56b03;
+        font-weight: 700; }
+      #nav .nav .siteMap > div {
+        border-right: 1px solid #e5e5e5;
+        height: 110px;
+        padding-left: 20px; }
+        #nav .nav .siteMap > div a {
+          color: #666; }
+        #nav .nav .siteMap > div:last-child {
+          border-right: 0; }
+
+/*
+    logo
+ */
+.logo {
+  height: 134px;
+  position: relative; }
+  .logo .logoTop > a:first-child {
+    margin-top: 21px;
+    height: 36px;
+    width: 36px;
+    background: #f03;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    margin-right: 10px; }
+  .logo .logoTop > a:nth-child(2) {
+    color: #333; }
+  .logo .logoTop {
+    margin-bottom: 0px; }
+    .logo .logoTop p {
+      margin-top: 22px;
+      width: 394px; }
+      .logo .logoTop p input {
+        height: 26px;
+        line-height: 26px;
+        border: 1px solid #c80a28;
+        margin-bottom: 10px; }
+      .logo .logoTop p input:first-child {
+        width: 318px;
+        float: left;
+        padding-left: 4px; }
+      .logo .logoTop p input:nth-child(2) {
+        width: 70px;
+        height: 30px;
+        background: #c80a28;
+        font-size: 14px;
+        color: #fff; }
+      .logo .logoTop p a {
+        height: 12px;
+        line-height: 12px;
+        color: #666;
+        padding: 0 6px;
+        font-size: 12px;
+        border-right: 1px solid #b299b2; }
+      .logo .logoTop p a:last-child {
+        border: 0; }
+      .logo .logoTop p a:hover {
+        color: #ff0033; }
+    .logo .logoTop dl {
+      margin-top: 12px;
+      margin-right: 32px;
+      width: 80px; }
+      .logo .logoTop dl dt img {
+        width: 80px;
+        margin-bottom: 2px; }
+      .logo .logoTop dl dd {
+        font-size: 12px;
+        height: 12px;
+        line-height: 12px;
+        color: #ff0032;
+        text-align: center; }
+  .logo .logoTop > a:nth-child(2) {
+    margin-top: 21px;
+    font-size: 26px;
+    margin-right: 75px; }
+  .logo .listsp {
+    position: absolute;
+    top: 134px;
+    left: 0;
+    height: 450px; }
+    .logo .listsp .listsCon {
+      position: absolute;
+      left: 140px;
+      height: 100%;
+      top: 0; }
+      .logo .listsp .listsCon > div {
+        display: none;
+        position: absolute;
+        background-color: #fff;
+        padding: 0 9px; }
+      .logo .listsp .listsCon .allGoods01 {
+        height: 100%;
+        width: 180px;
+        background: #fff; }
+        .logo .listsp .listsCon .allGoods01 ul li {
+          margin-top: 23px; }
+      .logo .listsp .listsCon .allGoods02, .logo .listsp .listsCon .allGoods03 {
+        width: 360px;
+        background: #fff;
+        height: 100%; }
+        .logo .listsp .listsCon .allGoods02 div, .logo .listsp .listsCon .allGoods03 div {
+          border-bottom: 1px dashed #dadbdc;
+          padding: 8px 0; }
+          .logo .listsp .listsCon .allGoods02 div a:hover, .logo .listsp .listsCon .allGoods03 div a:hover {
+            text-decoration: underline; }
+        .logo .listsp .listsCon .allGoods02 h4, .logo .listsp .listsCon .allGoods03 h4 {
+          height: 14px;
+          font-size: 14px;
+          line-height: 14px;
+          color: #353637; }
+        .logo .listsp .listsCon .allGoods02 a, .logo .listsp .listsCon .allGoods03 a {
+          font-size: 12px;
+          color: #888889; }
+      .logo .listsp .listsCon .allGoods03 a {
+        display: inline-block; }
+  .logo .lists {
+    position: absolute;
+    height: 450px;
+    left: 0;
+    top: 0;
+    width: 152px;
+    background: #e3e3e3;
+    overflow: hidden;
+    font-size: 12px; }
+    .logo .lists h3 {
+      font-size: 12px;
+      line-height: 12px;
+      margin-bottom: 9px;
+      font-weight: 700; }
+      .logo .lists h3 i, .logo .lists h3 span {
+        float: left; }
+      .logo .lists h3 em {
+        float: right;
+        color: #989898; }
+    .logo .lists div {
+      padding: 13px  7px 0 10px;
+      height: 66px;
+      width: 135px;
+      border-bottom: 1px dashed #ccc; }
+      .logo .lists div a {
+        color: #555; }
+        .logo .lists div a:hover {
+          text-decoration: underline; }
+
+.logoBottom {
+  margin-top: 0; }
+  .logoBottom ul li a {
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    height: 28px;
+    line-height: 28px;
+    color: #000; }
+    .logoBottom ul li a:hover {
+      color: #ff0032; }
+  .logoBottom ul li {
+    float: left; }
+  .logoBottom ul li a {
+    padding: 0 13px; }
+  .logoBottom ul:first-child li:first-child a {
+    width: 126px;
+    background-color: #fe0032;
+    color: #fff; }
+
+#imgs {
+  padding-bottom: 24px; }
+  #imgs .imgs {
+    height: 253px; }
+    #imgs .imgs .imgsLeft {
+      width: 541px;
+      height: 100%; }
+      #imgs .imgs .imgsLeft img {
+        height: 100%;
+        width: 100%; }
+    #imgs .imgs .imgsRight {
+      width: 400px;
+      height: 100%; }
+      #imgs .imgs .imgsRight img {
+        height: 100%;
+        width: 100%; }
+
+.clothesT {
+  margin-bottom: 7px; }
+  .clothesT h2 {
+    height: 12px;
+    line-height: 12px;
+    font-size: 12px;
+    margin-right: 46px;
+    font-weight: 700; }
+    .clothesT h2 span {
+      color: #b2b2b2;
+      margin-left: 9px; }
+  .clothesT ul li {
+    float: left; }
+    .clothesT ul li a {
+      float: left;
+      height: 12px;
+      line-height: 12px;
+      font-size: 12px;
+      width: 64px;
+      text-align: center;
+      color: #666;
+      border-right: 1px solid #ddd; }
+
+.clothe .clothes .clothesB {
+  position: relative;
+  min-height: 235px;
+  height: auto; }
+  .clothe .clothes .clothesB ul {
+    position: absolute;
+    display: none; }
+  .clothe .clothes .clothesB ul li {
+    float: left;
+    margin-right: 17px; }
+    .clothe .clothes .clothesB ul li:last-child {
+      margin-right: 0; }
+    .clothe .clothes .clothesB ul li input {
+      display: block;
+      margin: 0 auto;
+      border: 1px solid #333333;
+      width: 59px;
+      height: 14px;
+      line-height: 14px;
+      font-size: 12px;
+      color: #333333;
+      text-align: center; }
+    .clothe .clothes .clothesB ul li p {
+      height: 12px;
+      font-size: 12px;
+      line-height: 12px;
+      color: #333;
+      margin: 14px 0;
+      text-align: center; }
+      .clothe .clothes .clothesB ul li p span {
+        color: #999; }
+    .clothe .clothes .clothesB ul li a {
+      display: block;
+      width: 178px;
+      height: 184px; }
+      .clothe .clothes .clothesB ul li a img {
+        height: 100%;
+        width: 100%; }
+
+#guide .guide {
+  height: 81px;
+  background: #fafafa;
+  padding: 17px 0; }
+  #guide .guide > ul > li {
+    float: left;
+    font-size: 12px;
+    width: 106px;
+    padding-left: 54px; }
+    #guide .guide > ul > li ul li a {
+      color: #565656; }
+    #guide .guide > ul > li h3 {
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 12px;
+      height: 12px;
+      margin-bottom: 12px; }
+
+#ensure .ensure {
+  height: 108px; }
+
+#botNav .botNav {
+  background: #393939; }
+  #botNav .botNav ul {
+    margin: 0 auto;
+    width: 600px; }
+    #botNav .botNav ul li {
+      float: left;
+      height: 17px;
+      padding-top: 7px; }
+      #botNav .botNav ul li a {
+        float: left;
+        color: #fff;
+        font-size: 12px;
+        height: 12px;
+        line-height: 12px;
+        border-right: 1px solid #fff;
+        padding: 0 20px; }
+      #botNav .botNav ul li:last-child a {
+        border-right: 0; }
+
+#copyright .copyright {
+  height: 47px;
+  line-height: 47px; }
+  #copyright .copyright p {
+    font-size: 12px;
+    color: #000; }
+  #copyright .copyright a {
+    color: #939393;
+    font-size: 12px; }
+
+#botImags {
+  padding-bottom: 16px; }
+  #botImags .botImgs {
+    text-align: center;
+    height: 30px; }
+    #botImags .botImgs div {
+      display: inline-block;
+      vertical-align: middle; }
+      #botImags .botImgs div img, #botImags .botImgs div a {
+        float: left; }
+      #botImags .botImgs div a {
+        margin: 0 10px; }
+    #botImags .botImgs span {
+      height: 100%;
+      vertical-align: middle;
+      width: 0;
+      display: inline-block; }
+
+/*# sourceMappingURL=public.css.map */

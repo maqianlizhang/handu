@@ -1,0 +1,94 @@
+#banner{
+    padding-top: 16px;
+    .banner{
+        width: 800px;
+        margin: 0 auto;
+        height: 48px;
+        img{
+            height: 100%;
+            width: 100%;
+        }
+    }
+}
+.widths{
+    margin: 0 auto;
+    width:960px;
+}
+#main{
+    padding-bottom: 12px;
+    .main{
+        width: 960px;
+        margin: 0 auto;
+        .mainLeft{
+            width: 366px;
+            padding-left: 42px;
+            border-right: 1px dashed #dedede;
+            height: 400px;
+            position: relative;
+            margin-right: 62px;
+            img{
+                width: 328px;
+                height: 232px;
+                position: absolute;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                margin: auto;
+            }
+        }
+        .mainRight{
+            form{
+                margin-top: 18px;
+                height: 275px;
+                width: 305px;
+                border: 1px solid #b1b1b1;
+                border-radius: 2px;
+                padding: 20px 0 0 32px;
+                h2{
+                   font-size: 14px;
+                   height: 14px;
+                   line-height: 14px;
+                   padding-bottom: 6px;
+                   width: 240px; 
+                   border-bottom: 1px solid #eee;
+                   margin-bottom: 40px;
+                }
+                .mm{
+                   margin: 8px 0; 
+                }
+                .as a{
+                        padding: 0 7px;
+                        color: #5e5e5e;
+                    }
+                p{
+                    font-size: 12px;
+                   .cons{
+                        height: 24px;
+                        width: 165px;
+                        border:1px solid #dfdfdf;
+                    }
+                    .dl{
+                        height: 28px;
+                        width: 112px;
+                       color: #fff;
+                       background: #c11533;
+                       border: 0;
+                        
+                    }
+                    #yzm{
+                         height: 24px;
+                        width: 96px;
+                        border:1px solid #dfdfdf;
+                    }
+                    
+                }
+            }
+        }
+        h3{
+            font-size: 12px;
+            height: 12px;
+            line-height: 12px;
+        }
+    }
+}

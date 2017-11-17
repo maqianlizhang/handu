@@ -1,0 +1,186 @@
+{
+	"operate":[
+				{"src":"NA.jpg"},
+				{"src":"H-.jpg"},
+				{"src":"FQ.jpg"},
+				{"src":"DKN.jpg"},
+				{"src":"NBS.jpg"},
+				{"src":"YT.jpg"},
+				{"src":"SL.jpg"},
+				{"src":"HN-.jpg"},
+				{"src":"ANMA.jpg"},
+				{"src":"ZG.jpg"},
+				{"src":"yyt-.jpg"},
+				{"src":"mn.jpg"},
+				{"src":"pig.jpg"},
+				{"src":"hw.jpg"},
+				{"src":"gy.jpg"},
+				{"src":"NA.jpg"}
+		
+			],
+	"allgoods" :[
+				{"src":"nana.png"},
+				{"src":"hstyle.png"},
+				{"src":"forqueen.png"},
+				{"src":"hanyunyixiang.png"},
+				{"src":"nibbuns.png"},
+				{"src":"sulv.png"},
+				{"src":"Hn.png"},
+				{"src":"anma.png"},
+				{"src":"zg.png"},
+				{"src":"nana.png"},
+				{"src":"mini.png"},
+				{"src":"hp.png"},
+				{"src":"dx1.png"},
+				{"src":"guoya.png"}
+			],
+	"choiceness" :[
+			{
+				"con":"潮流新品",
+				"as" : ["清仓特惠","爆款特惠"]
+			},
+			{
+				"con":"特惠精选",
+				"as" : ["2017秋装新品","原创新品","连衣裙","卫衣","毛针织衫"]
+			},
+	
+			{
+				"con":"类目新品",
+				"as" : ["连衣裙","牛仔裤","衬衫","卫衣","T恤","休闲裤","半身裙","套装","羽绒服","毛呢外套","棉衣","毛针织衫"]
+			},
+			{
+				"con":"爆款集锦",
+				"as" : ["2017秋装","爆款女装","爆款男装","爆款童装","爆款妈妈装","爆款"]
+			},
+			{
+				"con":"百变风格",
+				"as" : ["潮流韩范","纯色","优雅OL","印花","甜美","清新","条纹","度假","出游","拼接","复古","字母","修身","几何宽松不规"]
+			}
+		],			
+		"menclothes" : {
+				"imgs" : ["hstyle.png","nibbuns.png","sulv.png","forqueen.png","nana.png","ytxz.png","hstyle.png"],
+				"cons" : [
+							{
+								"con":"韩风时尚HSTYLE",
+								"as" :["T恤","衬衫","套装","连衣裙","半身裙","牛仔裤","休闲裤","羽绒服","毛呢外套","棉衣","毛针织衫"]
+							},
+							
+							{
+								"con":"时尚名媛SONEED",
+								"as" :["T恤","衬衫","套装","连衣裙","半身裙","牛仔裤","休闲裤","羽绒服","毛呢外套","棉衣","毛针织衫"]
+							
+							},
+							{
+								"con":"韩风时尚HSTYLE",
+								"as" :["T恤","衬衫","套装","连衣裙","半身裙","牛仔裤","休闲裤","羽绒服","毛呢外套","棉衣","毛针织衫"]
+							
+							},
+							{
+								"con":"韩风时尚HSTYLE",
+								"as" :["T恤","衬衫","套装","连衣裙","半身裙","牛仔裤","休闲裤","羽绒服","毛呢外套","棉衣","毛针织衫"]
+							}		
+						]
+		},
+		
+		
+		"newsone":{
+			"srcone":"newsone01.jpg",
+			"srctwo":"newsone02.jpg",
+			"conone" :"韩都衣舍上市获批！成网络服务第一商家",
+			"contwo" :"同心逐梦·志在巅峰",
+			"listone":[
+				{"details":"韩都衣舍签约亚洲女神朴信惠"},
+				{"details":"签约朴信惠，韩都衣舍将要做什么？"},
+				{"details":"中韩首届电商大会召开 韩都衣舍受邀"}
+			],
+			"listtwo":[
+				{"details":"韩都衣舍旗下男装AMH摘得双11淘品牌冠军"},
+				{"details":"韩都衣舍多级跳 淘品牌到孵化器"},
+				{"details":"情人节，韩都老总竟然为数百人戴戒指？"}
+			]
+		},
+		
+		"newstwo":{
+			"srcone":"qq.jpg",
+			"listone":[
+				{"details":"签约三大韩星：韩都衣舍欲书写互联网品牌的中国时尚传奇"},
+				{"details":"StarVC为韩都衣舍品牌背书"},
+				{"details":"AMH星势力计划—韩国巨星池昌旭签约发布会"}
+			]
+		},
+		"newsthree":{
+			"srcone":"newsthree01.jpg",
+			"srctwo":"newsthree02.jpg",
+			"conone" :"韩都衣舍：一个线上品牌的衍变",
+			"contwo" :"韩都衣舍赵迎光：'站在时尚门外'",
+			"listone":[
+				{"details":"韩都衣舍：阿米巴炸裂"},
+				{"details":"亲们 字母印花T恤最'韩范儿'"},
+				{"details":"韩都衣舍：走向'设计师孵化平台'"}
+			],
+			"listtwo":[
+				{"details":"赵迎光：把决策力从老板放到员工身上"},
+				{"details":"供应链跟不上互联网？看韩都衣舍怎么做"},
+				{"details":"'迪葵纳'时尚妈妈装稳居天猫第一"}
+			]
+		},
+		"newsfour":{
+			"srcone":"newsfour.jpg",
+			"con" :"韩都衣舍上市获批！成网络服务第一商家",
+			"listone":[
+				{"details":"韩都公益：为汶上县寅寺镇草桥小学学生送礼物"},
+				{"details":"韩都公益：点亮求学光源 草桥无穷花开"},
+				{"details":"筑梦留守儿童'公益项目在山东菏泽启动'"}
+			]
+		},
+		
+		"clothes01" :{
+				"new01"	: [
+							{"src" : "clothes01.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothes02.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothes03.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothes04.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothes05.jpg","price01" : "￥122.00","price02" : "￥238.00"}
+					  ],
+				"new02"	: [
+							{"src" : "clothesnew2-01.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew2-02.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew2-03.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew2-04.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew2-05.jpg","price01" : "￥122.00","price02" : "￥238.00"}
+					  ],
+		
+				"new03"	: [
+							{"src" : "clothesnew3-01.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew3-02.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew3-03.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew3-04.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew3-05.jpg","price01" : "￥122.00","price02" : "￥238.00"}
+					  ],
+				"new04"	: [
+							{"src" : "clothesnew4-01.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew4-02.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew4-03.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew4-04.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew4-05.jpg","price01" : "￥122.00","price02" : "￥238.00"}
+					  ],
+				"new05"	: [
+							{"src" : "clothesnew5-01.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew5-02.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew5-03.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew5-04.jpg","price01" : "￥122.00","price02" : "￥238.00"},
+							{"src" : "clothesnew5-05.jpg","price01" : "￥122.00","price02" : "￥238.00"}
+					  ]
+		
+		}
+			
+		
+		
+		
+		
+		
+				
+		
+			
+}
+

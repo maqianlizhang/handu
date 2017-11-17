@@ -1,0 +1,56 @@
+{
+	"newsOne":{
+		"srcone":"newsone01.jpg",
+		"srctwo":"newsone02.jpg",
+		"conone" :"韩都衣舍上市获批！成网络服务第一商家",
+		"contwo" :"韩都衣舍上市获批！成网络服务第一商家",
+		"listone":[
+			{"details":"韩都衣舍签约亚洲女神朴信惠"},
+			{"details":"签约朴信惠，韩都衣舍将要做什么？"},
+			{"details":"中韩首届电商大会召开 韩都衣舍受邀"}
+		],
+		"listtwo":[
+			{"details":"赵迎光：把决策力从老板放到员工身上"},
+			{"details":"供应链跟不上互联网？看韩都衣舍怎么做"},
+			{"details":"'迪葵纳'时尚妈妈装稳居天猫第一"}
+		]
+	},
+	"newsTwo":{
+		"srcone":"newsone01.jpg",
+		"con" :"韩都衣舍上市获批！成网络服务第一商家",
+		"listone":[
+			{"details":"韩都衣舍签约亚洲女神朴信惠"},
+			{"details":"签约朴信惠，韩都衣舍将要做什么？"},
+			{"details":"中韩首届电商大会召开 韩都衣舍受邀"}
+		]
+	},
+	"newsThree":{
+		"srcone":"newsone01.jpg",
+		"srctwo":"newsone02.jpg",
+		"conone" :"韩都衣舍上市获批！成网络服务第一商家",
+		"contwo" :"韩都衣舍上市获批！成网络服务第一商家",
+		"listone":[
+			{"details":"韩都衣舍签约亚洲女神朴信惠"},
+			{"details":"签约朴信惠，韩都衣舍将要做什么？"},
+			{"details":"中韩首届电商大会召开 韩都衣舍受邀"}
+		],
+		"listtwo":[
+			{"details":"赵迎光：把决策力从老板放到员工身上"},
+			{"details":"供应链跟不上互联网？看韩都衣舍怎么做"},
+			{"details":"'迪葵纳'时尚妈妈装稳居天猫第一"}
+		]
+	},
+	"newsFour":{
+		"srcone":"newsone01.jpg",
+		"con" :"韩都衣舍上市获批！成网络服务第一商家",
+		"listone":[
+			{"details":"韩都衣舍签约亚洲女神朴信惠"},
+			{"details":"签约朴信惠，韩都衣舍将要做什么？"},
+			{"details":"中韩首届电商大会召开 韩都衣舍受邀"}
+		]
+	}
+		
+}
+
+
+

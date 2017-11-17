@@ -1,0 +1,132 @@
+.listsp {
+  display: none; }
+
+.widths, #banner .banner {
+  width: 960px;
+  margin: 0 auto; }
+
+#banner {
+  padding: 8px 0 24px 0; }
+  #banner .banner {
+    height: 48px;
+    position: relative; }
+    #banner .banner img {
+      height: 100%;
+      width: 880px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      margin: auto; }
+
+#main {
+  padding-bottom: 12px; }
+  #main .main {
+    width: 880px;
+    margin: 0 auto; }
+    #main .main .mainLeft {
+      border-right: 1px dashed #ddd;
+      padding-left: 24px;
+      width: 328px;
+      height: 400px; }
+      #main .main .mainLeft h2 {
+        margin-top: 14px;
+        color: #000;
+        line-height: 12px;
+        height: 12px;
+        font-size: 12px; }
+        #main .main .mainLeft h2 a {
+          display: inline-block;
+          height: 23px;
+          width: 82px;
+          background: #c07e40;
+          line-height: 23px;
+          color: #fff;
+          text-align: center;
+          border-radius: 2px; }
+      #main .main .mainLeft input {
+        height: 19px;
+        width: 200px;
+        border: 1px solid #ddd; }
+      #main .main .mainLeft .subscibe {
+        color: #FFF;
+        width: 56px;
+        height: 18px;
+        text-align: center;
+        line-height: 18px;
+        font-size: 12px;
+        display: inline-block;
+        background: #c40001;
+        border-radius: 2px;
+        margin-left: 6px; }
+      #main .main .mainLeft img {
+        width: 293px;
+        height: 200px;
+        margin: 20px 0; }
+    #main .main .mainRight {
+      width: 487px;
+      font-size: 12px; }
+      #main .main .mainRight i {
+        color: #000; }
+      #main .main .mainRight .choose {
+        border-bottom: 1px dashed #ddd;
+        padding-bottom: 61px;
+        margin-top: 6px; }
+        #main .main .mainRight .choose input {
+          border: 0;
+          width: 108px;
+          height: 28px;
+          border-radius: 3px;
+          background: #bd0828;
+          color: #fff;
+          line-height: 28px;
+          font-size: 14px;
+          text-align: center;
+          margin-left: 8px; }
+      #main .main .mainRight .way {
+        margin-top: 26px;
+        height: 289px;
+        position: relative; }
+        #main .main .mainRight .way form {
+          position: absolute;
+          left: 0;
+          top: 0;
+          height: 100%;
+          width: 100%; }
+        #main .main .mainRight .way .successes {
+          height: 34px;
+          width: 137px;
+          background: #ba0828;
+          color: #fff;
+          line-height: 34px;
+          font-size: 14px;
+          text-align: center;
+          border: 0;
+          border-radius: 2px; }
+        #main .main .mainRight .way p {
+          color: #7b7b7b;
+          margin-bottom: 7px; }
+        #main .main .mainRight .way .sendyzm {
+          width: 91px;
+          height: 22px;
+          line-height: 22px;
+          border-radius: 2px;
+          color: #7b7b7b;
+          background: #f7f7f7;
+          font-size: 12px;
+          border: 1px solid #dcdcdc;
+          margin-left: 6px; }
+      #main .main .mainRight span {
+        display: inline-block;
+        height: 18px;
+        width: 18px;
+        border-radius: 9px;
+        background: #c81838;
+        text-align: center;
+        line-height: 18px;
+        font-size: 12px;
+        color: #fff;
+        margin-right: 6px; }
+
+/*# sourceMappingURL=register.css.map */
